@@ -3,7 +3,7 @@
 ## Description
 We created a game authoring environment and a game engine that allows users to create and play their very own games. The back-end and front-end for both the authoring environment and the game engine were created using Java. Information from the game authoring environment is saved using XML and sent to the back-end for the game engine to render and execute. The project makes use of the MVC & Entity-Component paradigms.
 
-This collaborative project was completed as our Computer Science 308: Software Design & Implementation final project. It was rewarded the Best Feature award for the ability to rewind the game in real time.
+This collaborative project was completed as our Computer Science 308: Software Design & Implementation final project. It was awarded the **Best Feature award for the ability to rewind the game in real time.**
 
 Check out the Wiki for more information on how to use our application.
 
